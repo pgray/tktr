@@ -1,0 +1,9 @@
+[package]
+name = "tktr"
+version = "0.1.0"
+authors = ["pgray"]
+edition = "2018"
+
+[dependencies]
+goji = "0.2"
+cursive = "*"
