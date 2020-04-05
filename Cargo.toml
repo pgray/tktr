@@ -5,5 +5,6 @@ authors = ["pgray"]
 edition = "2018"
 
 [dependencies]
+goji = "0.2"
 tui = "0.6.0"
 termion = "*"
